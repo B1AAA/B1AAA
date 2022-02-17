@@ -11,7 +11,7 @@ Como me encontrar:</br>
 
 
 ![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=B1AAA&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1AAA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br/>
