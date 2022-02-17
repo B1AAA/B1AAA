@@ -1,8 +1,8 @@
 Olá! Eu sou a Beatriz Soares 👋</br>
 
-👩tenho 19 anos....</br>
-💻trabalho no santander</br>
-📚 Estou aprendendo Java e SpringBoot framework</br>
+👩Tenho 19 anos....</br>
+💻Trabalho no santander</br>
+📚Estou aprendendo Java e SpringBoot framework</br>
 
 
 Como me encontrar:</br>
